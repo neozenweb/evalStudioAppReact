@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/evalStudioAppReact/static/css/main.8cac1849.css",
+    "main.js": "/evalStudioAppReact/static/js/main.8056745a.js",
+    "static/js/787.bad85112.chunk.js": "/evalStudioAppReact/static/js/787.bad85112.chunk.js",
+    "static/media/evaluation-studio-logo.png": "/evalStudioAppReact/static/media/evaluation-studio-logo.b2134719c29682f710e2.png",
+    "index.html": "/evalStudioAppReact/index.html",
+    "main.8cac1849.css.map": "/evalStudioAppReact/static/css/main.8cac1849.css.map",
+    "main.8056745a.js.map": "/evalStudioAppReact/static/js/main.8056745a.js.map",
+    "787.bad85112.chunk.js.map": "/evalStudioAppReact/static/js/787.bad85112.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cac1849.css",
+    "static/js/main.8056745a.js"
+  ]
+}
